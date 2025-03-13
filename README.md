@@ -1,2 +1,3 @@
 # Full-Stack-Development
-Dare to Learn
+We Learn to Code and Implement
+💻 Write Code ➡️ 🔧 Fix errors ➡️ ✅ Test Code ➡️  🔄 Repeat
