@@ -1,0 +1,41 @@
+.one{
+	margin: 2px 2px 0px 2px;
+	border:2px solid black;
+	padding-left: 725px;
+}
+nav{
+	border: 2px solid black;
+	margin: 2px 2px 2px 2px;
+}
+.link1{
+	margin: 2px 2px 2px 2px;
+    padding-left: 50px;
+}
+.link2{
+	margin: 2px 2px 2px 2px;
+	padding-left: 250px;
+}
+.link3{
+	padding-left: 715px;
+}
+.link4{
+	padding-left: 200px;
+}
+.four{
+	border: 2px solid black;
+	margin: 0px 2px 2px 2px;
+	padding-left: 750px;
+}
+.image
+{
+	border: 2px solid black;
+	margin: 6px 2px 2px 2px;
+	padding: 2px 0px 0px 2px;
+}
+.jrntr{
+	padding-left: 610px;
+}
+img{
+	height: 200px;
+}
+
